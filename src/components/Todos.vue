@@ -11,8 +11,6 @@
 </template>
 
 <script>
-import Todo from './Todo'
-
 export default {
     name: 'Todos',
     props: ['tasks'],
